@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.streamlit/
+
+.env
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+.vscode/
+.idea/
